@@ -59,7 +59,7 @@ GoGetWell.ai is a modern, AI-powered healthcare platform that helps users manage
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gogetwell-ai.git
+git clone https://github.com/sudheer72/gogetwell.ai.git
 ```
 
 2. Install dependencies:
