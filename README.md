@@ -46,13 +46,14 @@ GoGetWell.ai is a modern, AI-powered healthcare platform that helps users manage
 ## 📸 Screenshots
 
 ### How it Works
-![Landing Page](https://images.pexels.com/photos/7088541/pexels-photo-7088541.jpeg)
-
-### Features Section
-![Features](https://images.pexels.com/photos/3845810/pexels-photo-3845810.jpeg)
+![Image](https://github.com/user-attachments/assets/1e3a8c81-c145-4bb7-8932-ba1444893585)
 
 ### Pricing Plans
-![Pricing](https://images.pexels.com/photos/3846005/pexels-photo-3846005.jpeg)
+![Image](https://github.com/user-attachments/assets/cfcd3e97-3cc2-4265-92d7-2b5233ae729f)
+
+### Request Early Access
+![Image](https://github.com/user-attachments/assets/b4e08ab3-38bd-4500-b32a-1920485c67d3)
+
 
 ## 🛠️ Installation
 
