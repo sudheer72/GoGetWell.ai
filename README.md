@@ -1,6 +1,8 @@
 # GoGetWell.ai - AI-Powered Healthcare Platform
 
-![GoGetWell.ai Hero Section](https://images.pexels.com/photos/7088541/pexels-photo-7088541.jpeg)
+GoGetWell.ai Hero Section
+
+![Image](https://github.com/user-attachments/assets/7964ea1b-b4e2-4512-b120-45b2cc64e816)
 
 GoGetWell.ai is a modern, AI-powered healthcare platform that helps users manage their health and wellness through advanced technology and personalized insights.
 
@@ -43,7 +45,7 @@ GoGetWell.ai is a modern, AI-powered healthcare platform that helps users manage
 
 ## 📸 Screenshots
 
-### Landing Page
+### How it Works
 ![Landing Page](https://images.pexels.com/photos/7088541/pexels-photo-7088541.jpeg)
 
 ### Features Section
